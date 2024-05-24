@@ -21,10 +21,15 @@ Welcome to my GitHub repository where I share links to all my blog posts on Medi
 4. **[Automated CI/CD Pipeline using Jenkins | Deploy on Docker container](https://medium.com/@priyankanahar/automated-ci-cd-pipeline-using-jenkins-deploy-on-docker-container-2bb9011827f7)**
    - *Published on: Jun 30, 2020*
    - **Summary**: For a website to be deployed, behind the scene there are many teams involved — Developers team, Quality Assurance team, and Operational…
-  
-   - 5. **[Terraform (Infrastructure As Code) With AWS To Launch A Website](https://medium.com/@priyankanahar/terraform-infrastructure-as-code-with-aws-to-launch-a-website-823170f28cf1)**
+     
+5. **[Terraform (Infrastructure As Code) With AWS To Launch A Website](https://medium.com/@priyankanahar/terraform-infrastructure-as-code-with-aws-to-launch-a-website-823170f28cf1)**
    - *Published on: Jun 25, 2020*
-   - **Summary**: For running any website, the first and basic requirement is just to have Infrastructure.
+   - **Summary**: For running any website, the first and basic requirement is just to have Infrastructure...
+  
+6. **[Navigating the Skies: A Comprehensive Overview of UAV Visual Navigation Systems](https://medium.com/@priyankanahar/navigating-the-skies-a-comprehensive-overview-of-uav-visual-navigation-systems-d3627c10d5aa)**
+   - *Published on: May 23, 2024*
+   - **Summary**: Unmanned Aerial Vehicles (UAVs), often referred to as drones or Remotely Piloted Aerial Systems (RPAS), have seen a remarkable…
+   
 
 
 
